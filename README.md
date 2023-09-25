@@ -1,5 +1,8 @@
 # ChadGPT - The father
 
+## Prereqisites
+- Install python 3.8+ on your device
+
 ## How to use:
 - Clone the repository
 - run ```pip install requirements.txt```
